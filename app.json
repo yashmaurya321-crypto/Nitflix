@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Netflix",
+    "slug": "Netflix",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/pngwing.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/pngwing.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/pngwing.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
